@@ -9,8 +9,9 @@ class SeoController < ApplicationController
 
    zmiana z ultra edita
    zmiana z ultra edita 2
+    zmiana z rubymine
 
-  #commit 5
+    #commit 5
 #
     #
     # set_meta_tags :title => 'Member Login',
