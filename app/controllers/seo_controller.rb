@@ -7,7 +7,8 @@ class SeoController < ApplicationController
     @key_words<<"word3"
 
 
-    asdasd
+    #test
+    # asdasd
 #
     #
     # set_meta_tags :title => 'Member Login',
