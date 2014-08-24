@@ -13,6 +13,7 @@ class SeoController < ApplicationController
     test fetch
     
     f1
+    f2
 
     #commit 5
 #
