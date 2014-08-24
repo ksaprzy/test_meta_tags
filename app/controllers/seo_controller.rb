@@ -8,6 +8,7 @@ class SeoController < ApplicationController
 
 
    zmiana z ultra edita
+   zmiana z ultra edita 2
 
   #commit 5
 #
