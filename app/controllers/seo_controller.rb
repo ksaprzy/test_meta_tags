@@ -7,6 +7,7 @@ class SeoController < ApplicationController
     @key_words<<"word3"
 
 
+
     #
     # set_meta_tags :title => 'Member Login',
     #               :description => 'Member login page.',
