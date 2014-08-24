@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92dbc269-647c-4d2f-bff6-bf6944684528" name="Default" comment="">
+    <list default="true" id="92dbc269-647c-4d2f-bff6-bf6944684528" name="Default" comment="kolejna zmiana">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/seo_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/seo_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -42,8 +42,8 @@
       <file leaf-file-name="seo_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/seo_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64830506" vertical-offset="0" max-vertical-offset="595">
-              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.25211865" vertical-offset="0" max-vertical-offset="472">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -312,7 +312,11 @@
       <created>1408892466016</created>
       <updated>1408892466016</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="kolejna zmiana">
+      <created>1408892848846</created>
+      <updated>1408892848846</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -380,7 +384,8 @@
     <MESSAGE value="commit 2" />
     <MESSAGE value="commit 3" />
     <MESSAGE value="nowa zmiana" />
-    <option name="LAST_COMMIT_MESSAGE" value="nowa zmiana" />
+    <MESSAGE value="kolejna zmiana" />
+    <option name="LAST_COMMIT_MESSAGE" value="kolejna zmiana" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -498,8 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/seo_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64830506" vertical-offset="0" max-vertical-offset="595">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.25211865" vertical-offset="0" max-vertical-offset="472">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -7,18 +7,7 @@ class SeoController < ApplicationController
     @key_words<<"word3"
 
 
-    sdfsdf
-
-    sdfsdf
-
-    zxczxc
-    zxczxc
-
-    xxxxx
-    xxxxx
-    xxxxx
-    #test
-    # asdasd
+  #commit 5
 #
     #
     # set_meta_tags :title => 'Member Login',
