@@ -10,6 +10,13 @@ class SeoController < ApplicationController
     sdfsdf
 
     sdfsdf
+
+    zxczxc
+    zxczxc
+
+    xxxxx
+    xxxxx
+    xxxxx
     #test
     # asdasd
 #
