@@ -6,7 +6,8 @@ class SeoController < ApplicationController
     @key_words<<"word2"
     @key_words<<"word3"
 
-dupa11
+
+   zmiana z ultra edita
 
   #commit 5
 #
