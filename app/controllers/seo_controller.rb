@@ -10,6 +10,7 @@ class SeoController < ApplicationController
    zmiana z ultra edita
    zmiana z ultra edita 2
     zmiana z rubymine 1
+    test fetch
 
     #commit 5
 #
