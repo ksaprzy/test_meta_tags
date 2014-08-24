@@ -7,6 +7,9 @@ class SeoController < ApplicationController
     @key_words<<"word3"
 
 
+    sdfsdf
+
+    sdfsdf
     #test
     # asdasd
 #
