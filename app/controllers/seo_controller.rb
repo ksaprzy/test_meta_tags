@@ -7,6 +7,7 @@ class SeoController < ApplicationController
     @key_words<<"word3"
 
 A
+B
 
     #commit 5
 #
