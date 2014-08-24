@@ -6,17 +6,7 @@ class SeoController < ApplicationController
     @key_words<<"word2"
     @key_words<<"word3"
 
-
-   zmiana z ultra edita
-   zmiana z ultra edita 2
-    zmiana z rubymine 1
-    test fetch
-    
-    f1
-    f2
-    
-    f3
-    f4
+A
 
     #commit 5
 #
