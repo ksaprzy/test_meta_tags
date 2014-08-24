@@ -13,6 +13,10 @@ class SeoController < ApplicationController
     test fetch
     
     f1
+    f2
+    
+    f3
+    f4
 
     zxczxc
     #commit 5
