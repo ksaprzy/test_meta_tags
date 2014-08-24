@@ -9,7 +9,7 @@ class SeoController < ApplicationController
 
    zmiana z ultra edita
    zmiana z ultra edita 2
-    zmiana z rubymine
+    zmiana z rubymine 1
 
     #commit 5
 #
